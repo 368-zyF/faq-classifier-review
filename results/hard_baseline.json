@@ -1,0 +1,202 @@
+[
+  {
+    "id": 101,
+    "question": "请问退款进度在哪里看",
+    "true_label": "退款退货",
+    "predicted_category": "退款退货",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 102,
+    "question": "退货寄出去了但是快递丢了怎么办",
+    "true_label": "退款退货",
+    "predicted_category": "退款退货",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 103,
+    "question": "帮忙看看是正品吗",
+    "true_label": "商品咨询",
+    "predicted_category": "商品咨询",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 104,
+    "question": "有没有运费险啊",
+    "true_label": "商品咨询",
+    "predicted_category": "商品咨询",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 105,
+    "question": "密码忘记了怎么登录账号",
+    "true_label": "账号问题",
+    "predicted_category": "账号问题",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 106,
+    "question": "我先申请退款，顺便帮我查下快递到哪了",
+    "true_label": "退款退货",
+    "predicted_category": "退款退货",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 107,
+    "question": "快递员把我的退货件弄坏了",
+    "true_label": "投诉建议",
+    "predicted_category": "退款退货",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 108,
+    "question": "退货的邮费可以报销吗",
+    "true_label": "退款退货",
+    "predicted_category": "退款退货",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 109,
+    "question": "你们支持七天无理由吗",
+    "true_label": "退款退货",
+    "predicted_category": "商品咨询",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 110,
+    "question": "订单号是123456，帮我查一下",
+    "true_label": "物流查询",
+    "predicted_category": "物流查询",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 111,
+    "question": "东西收到了但是颜色和图片差很多",
+    "true_label": "投诉建议",
+    "predicted_category": "商品咨询",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 112,
+    "question": "这个包裹什么时候能到",
+    "true_label": "物流查询",
+    "predicted_category": "物流查询",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 113,
+    "question": "优惠券怎么用",
+    "true_label": "商品咨询",
+    "predicted_category": "商品咨询",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 114,
+    "question": "账号登录不上去，一直报错",
+    "true_label": "账号问题",
+    "predicted_category": "账号问题",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 115,
+    "question": "这个订单还没发货，能帮我催一下吗",
+    "true_label": "物流查询",
+    "predicted_category": "物流查询",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 116,
+    "question": "东西用了一个月就坏了，什么质量啊",
+    "true_label": "投诉建议",
+    "predicted_category": "投诉建议",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 117,
+    "question": "手机号不用了怎么改绑",
+    "true_label": "账号问题",
+    "predicted_category": "账号问题",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 118,
+    "question": "可以只换不退款吗",
+    "true_label": "退款退货",
+    "predicted_category": "退款退货",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 119,
+    "question": "为什么这次买的和上次不一样",
+    "true_label": "商品咨询",
+    "predicted_category": "商品咨询",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 120,
+    "question": "退款金额和实际支付不一致",
+    "true_label": "退款退货",
+    "predicted_category": "退款退货",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 121,
+    "question": "发货发错了，我要换货",
+    "true_label": "退款退货",
+    "predicted_category": "退款退货",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 122,
+    "question": "你们客服电话是多少",
+    "true_label": "其他",
+    "predicted_category": "其他",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 123,
+    "question": "退款一直不到账，什么情况",
+    "true_label": "退款退货",
+    "predicted_category": "退款退货",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 124,
+    "question": "请问怎么联系人工客服",
+    "true_label": "其他",
+    "predicted_category": "其他",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  },
+  {
+    "id": 125,
+    "question": "订单取消了还能恢复吗",
+    "true_label": "退款退货",
+    "predicted_category": "账号问题",
+    "mode": "deepseek",
+    "prompt_version": "baseline"
+  }
+]

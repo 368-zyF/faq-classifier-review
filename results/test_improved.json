@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "question": "我买的衣服想退掉，怎么操作",
+    "true_label": "退款退货",
+    "predicted_category": "退款退货",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 2,
+    "question": "快递到哪了，三天了还没到",
+    "true_label": "物流查询",
+    "predicted_category": "物流查询",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 3,
+    "question": "我忘记密码了，怎么找回",
+    "true_label": "账号问题",
+    "predicted_category": "账号问题",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 4,
+    "question": "这个耳机支持降噪吗",
+    "true_label": "商品咨询",
+    "predicted_category": "商品咨询",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 5,
+    "question": "你们客服态度太差了，我要投诉",
+    "true_label": "投诉建议",
+    "predicted_category": "投诉建议",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 6,
+    "question": "退款什么时候能到账",
+    "true_label": "退款退货",
+    "predicted_category": "退款退货",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 7,
+    "question": "包裹显示已签收但我没收到",
+    "true_label": "物流查询",
+    "predicted_category": "物流查询",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 8,
+    "question": "怎么修改绑定的手机号",
+    "true_label": "账号问题",
+    "predicted_category": "账号问题",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 9,
+    "question": "这款鞋有42码的吗",
+    "true_label": "商品咨询",
+    "predicted_category": "商品咨询",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 10,
+    "question": "商品质量有问题，我要举报",
+    "true_label": "投诉建议",
+    "predicted_category": "投诉建议",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 11,
+    "question": "七天无理由退货怎么退",
+    "true_label": "退款退货",
+    "predicted_category": "退款退货",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 12,
+    "question": "物流信息两天没更新了",
+    "true_label": "物流查询",
+    "predicted_category": "物流查询",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 13,
+    "question": "账号被冻结了，怎么回事",
+    "true_label": "账号问题",
+    "predicted_category": "账号问题",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 14,
+    "question": "这个手机壳是硅胶的还是塑料的",
+    "true_label": "商品咨询",
+    "predicted_category": "商品咨询",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 15,
+    "question": "建议你们增加夜间配送选项",
+    "true_label": "投诉建议",
+    "predicted_category": "投诉建议",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 16,
+    "question": "退货邮费谁出",
+    "true_label": "退款退货",
+    "predicted_category": "退款退货",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 17,
+    "question": "快递能改派送地址吗",
+    "true_label": "物流查询",
+    "predicted_category": "物流查询",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 18,
+    "question": "我收到一条短信说异地登录了，是真的吗",
+    "true_label": "账号问题",
+    "predicted_category": "账号问题",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 19,
+    "question": "这个包是真皮的吗",
+    "true_label": "商品咨询",
+    "predicted_category": "商品咨询",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 20,
+    "question": "买了三天就坏了，什么破质量",
+    "true_label": "投诉建议",
+    "predicted_category": "投诉建议",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 21,
+    "question": "退款已经申请了但是快递还没寄回去，我可以先取消退货吗",
+    "true_label": "退款退货",
+    "predicted_category": "退款退货",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 22,
+    "question": "我的快递到了但放错快递柜了怎么办",
+    "true_label": "物流查询",
+    "predicted_category": "物流查询",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 23,
+    "question": "你们这个退货流程也太麻烦了吧，我都搞不懂怎么操作",
+    "true_label": "投诉建议",
+    "predicted_category": "投诉建议",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 24,
+    "question": "我想问下这个退款的事顺便看看快递到没到",
+    "true_label": "退款退货",
+    "predicted_category": "退款退货",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 25,
+    "question": "东西寄错地址了，能帮我改一下",
+    "true_label": "物流查询",
+    "predicted_category": "物流查询",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 26,
+    "question": "我要退的这个订单里有两个商品，只退一个行不行",
+    "true_label": "退款退货",
+    "predicted_category": "退款退货",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 27,
+    "question": "这个充电宝能带上飞机吗",
+    "true_label": "商品咨询",
+    "predicted_category": "商品咨询",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 28,
+    "question": "嗯嗯好的谢谢",
+    "true_label": "其他",
+    "predicted_category": "其他",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 29,
+    "question": "？？？",
+    "true_label": "其他",
+    "predicted_category": "其他",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 30,
+    "question": "你好",
+    "true_label": "其他",
+    "predicted_category": "其他",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  }
+]

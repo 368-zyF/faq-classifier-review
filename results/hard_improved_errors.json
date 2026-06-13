@@ -1,0 +1,18 @@
+[
+  {
+    "id": 107,
+    "question": "快递员把我的退货件弄坏了",
+    "true_label": "投诉建议",
+    "predicted_category": "退款退货",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  },
+  {
+    "id": 125,
+    "question": "订单取消了还能恢复吗",
+    "true_label": "退款退货",
+    "predicted_category": "账号问题",
+    "mode": "deepseek",
+    "prompt_version": "improved"
+  }
+]
